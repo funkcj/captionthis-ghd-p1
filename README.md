@@ -1,6 +1,7 @@
 # GitHub for Developers
 
 - Class Date: Feb 27 - 28, 2024
+- The Church of Jesus Christ of Latter-Day Saints
 - Facilitator: @omoferacho
 
 ## Class Resources
